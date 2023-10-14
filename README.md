@@ -1,5 +1,7 @@
 - Hi, I’m @RoyceEColeman
-- I’m currently learning Rust.
+- I’m currently learning
+  - Rust
+  - VIM
 
 
 <!---
