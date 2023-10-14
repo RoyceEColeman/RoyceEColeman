@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RoyceEColeman
-- 🌱 I’m currently learning Rust.
-- 📫 How to reach me ...
+- Hi, I’m @RoyceEColeman
+- I’m currently learning Rust.
+
 
 <!---
 RoyceEColeman/RoyceEColeman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
