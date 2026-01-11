@@ -4,7 +4,8 @@ Tech that I’m currently learning
 - Vim
 - Kotlin
 - DevSecOps and CI/CD
-  - Docker
+  - Docker, podman, Kubernetes (microk8s, RKE2)
+  - Coder
   - Jenkins
   - GitHub Actions
   - GitLab CI
